@@ -3,7 +3,7 @@ I’m a full-stack web developer from Colombia passionate about building clean, 
 
 🔧 Technologies I work with:
 
-Frontend: JavaScript, HTML5, CSS3
+Frontend: JavaScript, React.js
 <br>
 Backend: NodeJS, Express, Python
 <br>
