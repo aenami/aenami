@@ -3,13 +3,13 @@ I’m a full-stack web developer from Colombia passionate about building clean, 
 
 🔧 Technologies I work with:
 
-Frontend: JavaScript, React.js
+Frontend: JavaScript, React.js + typescript
 <br>
-Backend: NodeJS, Express, Python
+Backend: NodeJS, Express, Python, typescript
 <br>
 Databases: MySQL, PostgreSQL
 <br>
-Others: Git, GitHub, Version Control
+Others: Git, GitHub, Version Control, Postman
 
 
 ### 👨‍💻 Languages and Tools
