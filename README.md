@@ -3,7 +3,7 @@ I’m a full-stack web developer from Colombia passionate about building clean, 
 
 ### 👨‍💻 Languages and Tools:
 
-Frontend: JavaScript, React.js + typescript
+Frontend: JavaScript, React.js + typescript, TailwindCSS
 <br>
 Backend: NodeJS, Express, Python, typescript
 <br>
